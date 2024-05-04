@@ -1,0 +1,60 @@
+
+
+
+
+  [
+      {
+        "sno":"1",
+        
+        "id": "Chai Infusion Dessert",
+        "content": {
+          "image": "image/chai.jpg" ,
+          "description": "Experience the sweet finale of your meal with our Chai Infusion Dessert Cardamom Chai.This delectable creation melds the velvety smoothness of Italian panna cotta with the aromatic allure of Indian chai."
+        }
+      },
+      {
+        "sno":"2",
+        "id": "Sizzling Tandoori Platter",
+        "content": {
+          "image": "image/platter.jpg",
+          "description": "Transport your taste buds to the streets of India with our Sizzling Tandoori Platter. Succulent morsels of marinated  a smoky flavor and tender texture. Served with a side of mint chutney"
+        }
+      },
+      {
+        "sno":"3",
+        "id": "Mango Curry Chicken",
+        "content": {
+          "image": "image/chicken.jpg",
+          "description": "Indulge in the rich flavors of our Seasonal Spice Delight - Mango Curry Chicken. A symphony of succulent chicken pieces bathed in a luscious curry infused with the sweetness of ripe mangoes."
+        }
+      },
+      {
+        "sno":"4",
+        "id": "Mango Curry Chicken",
+        "content": {
+          "image": "image/chicken.jpg",
+          "description": "Indulge in the rich flavors of our Seasonal Spice Delight - Mango Curry Chicken. A symphony of succulent chicken pieces bathed in a luscious curry infused with the sweetness of ripe mangoes."
+        }
+      },
+      {
+        "sno":"5",
+        "id": "Mango Curry Chicken",
+        "content": {
+          "image": "image/chicken.jpg",
+          "description": "Indulge in the rich flavors of our Seasonal Spice Delight - Mango Curry Chicken. A symphony of succulent chicken pieces bathed in a luscious curry infused with the sweetness of ripe mangoes."
+        }
+      },
+      {
+        "sno":"6",
+        "id": "Mango Curry Chicken",
+        "content": {
+          "image": "image/chicken.jpg",
+          "description": "Indulge in the rich flavors of our Seasonal Spice Delight - Mango Curry Chicken. A symphony of succulent chicken pieces bathed in a luscious curry infused with the sweetness of ripe mangoes."
+        }
+      }
+    
+    
+      
+    ]
+ 
+  

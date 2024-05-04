@@ -1,0 +1,533 @@
+
+[
+    {
+         "page":"1",
+         "dish":"BURGER & SANDWICHES",
+        "content": {
+    "image":"/image/sandwiches.jpg",
+      "col-1":[
+     
+         {
+                  "title":"Burgers",
+                  "item":[
+                    {
+                    "name":"Tandoori Chicken Tikka Burger",
+                    "price":"160",
+                    "color":"red"
+                  },
+                  {
+                    "name":"Paneer Bhurji Burger",
+                    "price":"160",
+                    "color":"green"
+                  },
+                  {
+                    "name":"Aloo Tikki Burger",
+                    "price":"149",
+                    "color":"green"
+                  },
+                  {
+                    "name":"Egg Bhurji Breakfast Burger",
+                    "price":"149",
+                    "color":"red"
+                  },
+                  {
+                    "name":"Keema Pav Burger",
+                    "price":"149",
+                    "color":"red"
+                  },
+                  {
+                    "name":"Keema Pav Burger",
+                    "price":"149",
+                    "color":"red"
+                  }
+                
+                
+                ]
+         }
+      ],
+     "col-2":[
+     
+                     {
+                              "title":"Rice and Noodles",
+                              "item":[
+                              {
+                                "name":"Yangzhou Fried RicE",
+                                "price":" 140",
+                                "color":"green"
+                              },
+                              {
+                                 "name":"Dan Dan Noodles",
+                                 "price":" 140",
+                                 "color":"green"
+                               }
+                             ]
+                     },
+                     {
+                         "title":"SweeT Conclusion",
+                         "item":[
+                             {
+                           "name":"Mango Sticky Rice Spring Rolls",
+                           "price":" 160",
+                           "color":"green"
+                           }
+                         ] 
+                         }
+                 
+
+]
+                }
+   
+    },
+    {
+        "page":"2",
+        "dish":"CHINESE CUSINE",
+        "content": {
+           "image":"/image/sandwiches.jpg",
+             "col-1":[
+            
+                {
+                         "title":"Appetizer",
+                         "item":[{
+                           "name":"Spring Rolls Trio",
+                           "price":" 160",
+                           "color":"green"
+                         }]
+                },
+                {
+                    "title":"SOUP",
+                    "item":[
+                        {
+                      "name":"Hot and Sour Soup",
+                      "price":" 160",
+                      "color":"green"
+                      },
+                      {
+                        "name":"Wonton Noodle Soup",
+                        "price":" 120",
+                        "color":"green"
+                      }] 
+                    },
+                    {
+                        "title":"Main Coue",
+                        "item":[
+                            {
+                          "name":"Sichuan Chicken with Broccoli",
+                          "price":" 160",
+                          "color":"red"
+                          },
+                          {
+                            "name":"Cantonese Vegetable Chow Mein",
+                            "price":" 120",
+                            "color":"green"
+                          }] 
+                        }],
+            "col-2":[
+            
+                            {
+                                     "title":"Rice and Noodles",
+                                     "item":[
+                                     {
+                                       "name":"Yangzhou Fried RicE",
+                                       "price":" 140",
+                                       "color":"green"
+                                     },
+                                     {
+                                        "name":"Dan Dan Noodles",
+                                        "price":" 140",
+                                        "color":"green"
+                                      }
+                                    ]
+                            },
+                            {
+                                "title":"SweeT Conclusion",
+                                "item":[
+                                    {
+                                  "name":"Mango Sticky Rice Spring Rolls",
+                                  "price":" 160",
+                                  "color":"green"
+                                  }
+                                ] 
+                                }
+                        
+    
+]
+}
+    },
+
+    {
+      "page":"3",
+      "dish":"STARTERS",
+      "content": {
+         "image":"/image/sandwiches.jpg",
+           "col-1":[
+          
+              {
+                       "title":"Appetizers",
+                       "item":[{
+                         "name":"Spring Rolls Trio",
+                         "price":"160",
+                         "color":"green"
+                       }]
+              },
+              {
+                  "title":"SOUP",
+                  "item":[
+                      {
+                    "name":"Hot and Sour Soup",
+                    "price":"160",
+                    "color":"green"
+                    },
+                    {
+                      "name":"Wonton Noodle Soup",
+                      "price":"120",
+                      "color":"green"
+                    }] 
+                  },
+                  {
+                      "title":"Main Course",
+                      "item":[
+                          {
+                        "name":"Sichuan Chicken with Broccoli",
+                        "price":"160",
+                        "color":"red"
+                        },
+                        {
+                          "name":"Cantonese Vegetable Chow Mein",
+                          "price":"120",
+                          "color":"green"
+                        }] 
+                      }],
+          "col-2":[
+          
+                          {
+                                   "title":"Rice and Noodles",
+                                   "item":[
+                                   {
+                                     "name":"Yangzhou Fried RicE",
+                                     "price":"140",
+                                     "color":"green"
+                                   },
+                                   {
+                                      "name":"Dan Dan Noodles",
+                                      "price":"140",
+                                      "color":"green"
+                                    }
+                                  ]
+                          },
+                          {
+                              "title":"SweeT Conclusion",
+                              "item":[
+                                  {
+                                "name":"Mango Sticky Rice Spring Rolls",
+                                "price":"160",
+                                "color":"green"
+                                }
+                              ] 
+                              }
+                      
+  
+]
+}
+    },
+    {
+      "page":"4",
+      "dish":"SIDES",
+      "content": {
+         "image":"/image/sandwiches.jpg",
+           "col-1":[
+          
+              {
+                       "title":"Appetizers",
+                       "item":[{
+                         "name":"Spring Rolls Trio",
+                         "price":"160",
+                         "color":"green"
+                       }]
+              },
+              {
+                  "title":"SOUP",
+                  "item":[
+                      {
+                    "name":"Hot and Sour Soup",
+                    "price":"160",
+                    "color":"green"
+                    },
+                    {
+                      "name":"Wonton Noodle Soup",
+                      "price":"120",
+                      "color":"green"
+                    }] 
+                  },
+                  {
+                      "title":"Main Course",
+                      "item":[
+                          {
+                        "name":"Sichuan Chicken with Broccoli",
+                        "price":"160",
+                        "color":"red"
+                        },
+                        {
+                          "name":"Cantonese Vegetable Chow Mein",
+                          "price":"120",
+                          "color":"green"
+                        }] 
+                      }],
+          "col-2":[
+          
+                          {
+                                   "title":"Rice and Noodles",
+                                   "item":[
+                                   {
+                                     "name":"Yangzhou Fried RicE",
+                                     "price":"140",
+                                     "color":"green"
+                                   },
+                                   {
+                                      "name":"Dan Dan Noodles",
+                                      "price":"140",
+                                      "color":"green"
+                                    }
+                                  ]
+                          },
+                          {
+                              "title":"SweeT Conclusion",
+                              "item":[
+                                  {
+                                "name":"Mango Sticky Rice Spring Rolls",
+                                "price":"160",
+                                "color":"green"
+                                }
+                              ] 
+                              }
+                      
+  
+]
+}
+    },
+    {
+      "page":"5",
+      "dish":"SALADS",
+      "content": {
+         "image":"/image/sandwiches.jpg",
+           "col-1":[
+          
+              {
+                       "title":"Appetizers",
+                       "item":[{
+                         "name":"Spring Rolls Trio",
+                         "price":"160",
+                         "color":"green"
+                       }]
+              },
+              {
+                  "title":"SOUP",
+                  "item":[
+                      {
+                    "name":"Hot and Sour Soup",
+                    "price":"160",
+                    "color":"green"
+                    },
+                    {
+                      "name":"Wonton Noodle Soup",
+                      "price":"120",
+                      "color":"green"
+                    }] 
+                  },
+                  {
+                      "title":"Main Course",
+                      "item":[
+                          {
+                        "name":"Sichuan Chicken with Broccoli",
+                        "price":"160",
+                        "color":"red"
+                        },
+                        {
+                          "name":"Cantonese Vegetable Chow Mein",
+                          "price":"120",
+                          "color":"green"
+                        }] 
+                      }],
+          "col-2":[
+          
+                          {
+                                   "title":"Rice and Noodles",
+                                   "item":[
+                                   {
+                                     "name":"Yangzhou Fried RicE",
+                                     "price":"140",
+                                     "color":"green"
+                                   },
+                                   {
+                                      "name":"Dan Dan Noodles",
+                                      "price":"140",
+                                      "color":"green"
+                                    }
+                                  ]
+                          },
+                          {
+                              "title":"SweeT Conclusion",
+                              "item":[
+                                  {
+                                "name":"Mango Sticky Rice Spring Rolls",
+                                "price":"160",
+                                "color":"green"
+                                }
+                              ] 
+                              }
+                      
+  
+]
+}
+    },
+    {
+      "page":"6",
+      "dish":"CHINESE CUSINE",
+      "content": {
+         "image":"/image/sandwiches.jpg",
+           "col-1":[
+          
+              {
+                       "title":"Appetizers",
+                       "item":[{
+                         "name":"Spring Rolls Trio",
+                         "price":"160",
+                         "color":"green"
+                       }]
+              },
+              {
+                  "title":"SOUP",
+                  "item":[
+                      {
+                    "name":"Hot and Sour Soup",
+                    "price":"160",
+                    "color":"green"
+                    },
+                    {
+                      "name":"Wonton Noodle Soup",
+                      "price":"120",
+                      "color":"green"
+                    }] 
+                  },
+                  {
+                      "title":"Main Course",
+                      "item":[
+                          {
+                        "name":"Sichuan Chicken with Broccoli",
+                        "price":"160",
+                        "color":"red"
+                        },
+                        {
+                          "name":"Cantonese Vegetable Chow Mein",
+                          "price":"120",
+                          "color":"green"
+                        }] 
+                      }],
+          "col-2":[
+          
+                          {
+                                   "title":"Rice and Noodles",
+                                   "item":[
+                                   {
+                                     "name":"Yangzhou Fried RicE",
+                                     "price":"140",
+                                     "color":"green"
+                                   },
+                                   {
+                                      "name":"Dan Dan Noodles",
+                                      "price":"140",
+                                      "color":"green"
+                                    }
+                                  ]
+                          },
+                          {
+                              "title":"SweeT Conclusion",
+                              "item":[
+                                  {
+                                "name":"Mango Sticky Rice Spring Rolls",
+                                "price":"160",
+                                "color":"green"
+                                }
+                              ] 
+                              }
+                      
+  
+]
+}
+    },
+    {
+      "page":"7",
+      "dish":"CHINESE CUSINE",
+      "content": {
+         "image":"/image/sandwiches.jpg",
+           "col-1":[
+          
+              {
+                       "title":"Appetizers",
+                       "item":[{
+                         "name":"Spring Rolls Trio",
+                         "price":"160",
+                         "color":"green"
+                       }]
+              },
+              {
+                  "title":"SOUP",
+                  "item":[
+                      {
+                    "name":"Hot and Sour Soup",
+                    "price":"160",
+                    "color":"green"
+                    },
+                    {
+                      "name":"Wonton Noodle Soup",
+                      "price":"120",
+                      "color":"green"
+                    }] 
+                  },
+                  {
+                      "title":"Main Course",
+                      "item":[
+                          {
+                        "name":"Sichuan Chicken with Broccoli",
+                        "price":"160",
+                        "color":"red"
+                        },
+                        {
+                          "name":"Cantonese Vegetable Chow Mein",
+                          "price":"120",
+                          "color":"green"
+                        }] 
+                      }],
+          "col-2":[
+          
+                          {
+                                   "title":"Rice and Noodles",
+                                   "item":[
+                                   {
+                                     "name":"Yangzhou Fried RicE",
+                                     "price":"140",
+                                     "color":"green"
+                                   },
+                                   {
+                                      "name":"Dan Dan Noodles",
+                                      "price":"140",
+                                      "color":"green"
+                                    }
+                                  ]
+                          },
+                          {
+                              "title":"SweeT Conclusion",
+                              "item":[
+                                  {
+                                "name":"Mango Sticky Rice Spring Rolls",
+                                "price":"160",
+                                "color":"green"
+                                }
+                              ] 
+                              }
+                      
+  
+]
+}
+    }
+
+]

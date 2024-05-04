@@ -1,0 +1,121 @@
+[
+    {
+      "id":"1",
+      "title":"Exclusive",
+      "heading":"Unlock a World of Culinary Luxury and Tranquil Moments &  Much More.",
+    
+      "content1": {
+        "name":"Mango Tango Fusion Salad",
+        "image": "/image/sala.jpg" ,
+        "description": "Dive into a refreshing symphony of flavors with our Mango Tango Fusion Salad. Crisp mixed greens, juicy mango slices, and cherry tomatoes are tossed with a zesty mango-lime dressing, creating a burst of tropical goodness on your palate. Topped with grilled chicken for a protein boost and garnished with crunchy almond slivers"
+      },
+      "content2": {
+        "name":"Spiced Infusion Sea Bass:",
+        "image": "/image/infusion.jpg" ,
+        "description": " Immerse yourself in the bold and aromatic notes of our Spiced Infusion Sea Bass. Fresh fillets of sea bass are delicately seasoned with a blend of Indian spices, including cumin, coriander, and turmeric, then seared to perfection. Served on a bed of saffron-infused basmati rice and accompanied by a side of mint-cilantro chutney, this dish is a celebration of coastal flavors with a touch of Indian flair."
+      },
+          
+      "endText":"The sun may set, but the flavors linger, inviting you to return and continue your exploration of the rich tapestry of Café Sunset – a journey through flavors and moments that linger long after you've left our doors."
+
+    },
+    {
+        "id":"2",
+        "title":"Café Sunset Chronicles: A Journey Through Flavors and Moments",
+        "heading":"Welcome to the vibrant tapestry of Café Sunset, where every cup tells a story, and every moment is a cherished chapter in our culinary odyssey. Join us as we embark on a captivating journey, unveiling the essence of Café Sunset through its diverse flavors and unforgettable moments",
+      
+        "content1": {
+          "name":"Morning Prelude: Awakening the Senses.",
+          "image": "/image/morning.jpg" ,
+          "description": "As dawn breaks, Café Sunset comes alive with the Morning Prelude – a symphony of aromas and flavors that greet you with warmth and vitality. The Sunrise Espresso takes center stage, a robust elixir that awakens your senses, setting the stage for a day filled with culinary delights. Paired with a selection of freshly baked pastries, the morning at Café Sunset is a sweet beginning to your journey."
+        },
+        "content2": {
+          "name":"Culinary Odyssey: Seasons on a Plate",
+          "image": "/image/salads.jpg" ,
+          "description": "The heart of Café Sunset lies in its culinary offerings, a true odyssey through the seasons. Our chefs curate a culinary symphony with seasonal specialties that capture the essence of each moment. From light and refreshing summer salads to hearty and comforting winter stews, each dish is a celebration of local flavors and innovation. Be sure to explore our daily specials."
+        },
+          
+        "endText":"The sun may set, but the flavors linger, inviting you to return and continue your exploration of the rich tapestry of Café Sunset – a journey through flavors and moments that linger long after you've left our doors."
+      },
+
+
+   {
+        "id":"3",
+        "title":"Sunset Sessions: Live Music, Lively Conversations at Café Sunset",
+        "heading":"Step into the magical realm of Café Sunset, where the Sunset Sessions unfold – an enchanting fusion of live music and lively conversations that elevates your dining experience to new heights. In this blog, we invite you to explore the rhythmic heartbeat of our café, where melodies mingle with flavors, creating an ambiance that resonates long after the last note fades away.",
+      
+        "content1": {
+          "name":"Harmony in the Air: Live Music Serenades.",
+          "image": "/image/sing.jpeg" ,
+          "description": "As the sun begins its descent, Café Sunset transforms into a stage for Harmony in the Air. Our Sunset Sessions feature talented local musicians, whose soulful tunes set the perfect backdrop for an evening of relaxation and connection. From acoustic melodies to vibrant rhythms, each performance is a curated experience designed to enhance your dining pleasure."
+        },
+        "content2": {
+          "name":"Lively Conversations: Where Words Dance Like Notes & The Comedy Crescendo: Live Standup Performances.",
+          "image": "/image/red.png" ,
+          "description": "Beyond the music, Café Sunset is a haven for Lively Conversations. Engage in meaningful dialogue with friends, family, or fellow patrons as you share the experience of live music. The ambiance encourages connection, turning each table into a stage for the lively exchange of ideas and laughter. Café Sunset becomes a space where words dance like notes, creating an atmosphere of camaraderie."
+        }
+        ,
+          
+      "endText":"The sun may set, but the flavors linger, inviting you to return and continue your exploration of the rich tapestry of Café Sunset – a journey through flavors and moments that linger long after you've left our doors."
+      },
+      {
+        "id":"4",
+        "title":"Sunset Sessions: Live Music, Lively Conversations at Café Sunset",
+        "heading":"Step into the magical realm of Café Sunset, where the Sunset Sessions unfold – an enchanting fusion of live music and lively conversations that elevates your dining experience to new heights. In this blog, we invite you to explore the rhythmic heartbeat of our café, where melodies mingle with flavors, creating an ambiance that resonates long after the last note fades away.",
+      
+        "content1": {
+          "name":"Harmony in the Air: Live Music Serenades.",
+          "image": "/image/sing.jpeg" ,
+          "description": "As the sun begins its descent, Café Sunset transforms into a stage for Harmony in the Air. Our Sunset Sessions feature talented local musicians, whose soulful tunes set the perfect backdrop for an evening of relaxation and connection. From acoustic melodies to vibrant rhythms, each performance is a curated experience designed to enhance your dining pleasure."
+        },
+        "content2": {
+          "name":"Lively Conversations: Where Words Dance Like Notes & The Comedy Crescendo: Live Standup Performances.",
+          "image": "/image/red.png" ,
+          "description": "Beyond the music, Café Sunset is a haven for Lively Conversations. Engage in meaningful dialogue with friends, family, or fellow patrons as you share the experience of live music. The ambiance encourages connection, turning each table into a stage for the lively exchange of ideas and laughter. Café Sunset becomes a space where words dance like notes, creating an atmosphere of camaraderie."
+        }
+        ,
+          
+      "endText":"The sun may set, but the flavors linger, inviting you to return and continue your exploration of the rich tapestry of Café Sunset – a journey through flavors and moments that linger long after you've left our doors."
+      },
+      {
+        "id":"5",
+        "title":"Sunset Sessions: Live Music, Lively Conversations at Café Sunset",
+        "heading":"Step into the magical realm of Café Sunset, where the Sunset Sessions unfold – an enchanting fusion of live music and lively conversations that elevates your dining experience to new heights. In this blog, we invite you to explore the rhythmic heartbeat of our café, where melodies mingle with flavors, creating an ambiance that resonates long after the last note fades away.",
+      
+        "content1": {
+          "name":"Harmony in the Air: Live Music Serenades.",
+          "image": "/image/sing.jpeg" ,
+          "description": "As the sun begins its descent, Café Sunset transforms into a stage for Harmony in the Air. Our Sunset Sessions feature talented local musicians, whose soulful tunes set the perfect backdrop for an evening of relaxation and connection. From acoustic melodies to vibrant rhythms, each performance is a curated experience designed to enhance your dining pleasure."
+        },
+        "content2": {
+          "name":"Lively Conversations: Where Words Dance Like Notes & The Comedy Crescendo: Live Standup Performances.",
+          "image": "/image/red.png" ,
+          "description": "Beyond the music, Café Sunset is a haven for Lively Conversations. Engage in meaningful dialogue with friends, family, or fellow patrons as you share the experience of live music. The ambiance encourages connection, turning each table into a stage for the lively exchange of ideas and laughter. Café Sunset becomes a space where words dance like notes, creating an atmosphere of camaraderie."
+        }
+        ,
+          
+      "endText":"The sun may set, but the flavors linger, inviting you to return and continue your exploration of the rich tapestry of Café Sunset – a journey through flavors and moments that linger long after you've left our doors."
+      },
+      {
+        "id":"6",
+        "title":"Sunset Sessions: Live Music, Lively Conversations at Café Sunset",
+        "heading":"Step into the magical realm of Café Sunset, where the Sunset Sessions unfold – an enchanting fusion of live music and lively conversations that elevates your dining experience to new heights. In this blog, we invite you to explore the rhythmic heartbeat of our café, where melodies mingle with flavors, creating an ambiance that resonates long after the last note fades away.",
+      
+        "content1": {
+          "name":"Harmony in the Air: Live Music Serenades.",
+          "image": "/image/sing.jpeg" ,
+          "description": "As the sun begins its descent, Café Sunset transforms into a stage for Harmony in the Air. Our Sunset Sessions feature talented local musicians, whose soulful tunes set the perfect backdrop for an evening of relaxation and connection. From acoustic melodies to vibrant rhythms, each performance is a curated experience designed to enhance your dining pleasure."
+        },
+        "content2": {
+          "name":"Lively Conversations: Where Words Dance Like Notes & The Comedy Crescendo: Live Standup Performances.",
+          "image": "/image/red.png" ,
+          "description": "Beyond the music, Café Sunset is a haven for Lively Conversations. Engage in meaningful dialogue with friends, family, or fellow patrons as you share the experience of live music. The ambiance encourages connection, turning each table into a stage for the lively exchange of ideas and laughter. Café Sunset becomes a space where words dance like notes, creating an atmosphere of camaraderie."
+        }
+        ,
+          
+      "endText":"The sun may set, but the flavors linger, inviting you to return and continue your exploration of the rich tapestry of Café Sunset – a journey through flavors and moments that linger long after you've left our doors."
+      }
+  
+  
+    
+  ]
+

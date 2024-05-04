@@ -1,0 +1,59 @@
+
+
+
+
+[
+    {
+      "sno":"1",
+      
+      
+
+      "order": "75%",
+      "content": {
+        "code":"FGU87",
+        "image": "image/download.jpg" ,
+        "above": "₹399"
+      }
+    },
+    {
+      "sno":"2",
+      "order": "100%",
+      "content": {
+        "code":"FGU34",
+        "image": "image/food (1).png" ,
+        "above": "₹399"
+      }
+    },
+    {
+      "sno":"3",
+      "order": "55%",
+      "content": {
+        "code":"FGU87",
+        "image": "image/food (2).png" ,
+        "above": "₹399"
+      }
+    },
+    {
+      "sno":"4",
+      "order": "25%",
+      "content": {
+        "code":"FGU87",
+        "image": "image/download.jpg" ,
+        "above": "₹399"
+      }
+    },
+    {
+      "sno":"5",
+      "order": "45%",
+      "content": {
+        "code":"FGU87",
+        "image": "image/download.jpg" ,
+        "above": "₹399"
+      }
+    }
+ 
+  
+  
+    
+  ]
+
